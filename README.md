@@ -1,4 +1,4 @@
-# YouTube Comment Generator
+# YouTube Comment Scrape and Rebuild / Generator
 
 This project allows you to generate images of YouTube comments based on various criteria such as search terms, like counts, reply counts, etc. You can also generate custom comments from a JSON file.
 
