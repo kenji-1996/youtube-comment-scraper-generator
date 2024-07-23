@@ -1,0 +1,4 @@
+comment-images/*
+comment-images copy/
+.env
+node_modules/

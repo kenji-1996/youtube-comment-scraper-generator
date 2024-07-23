@@ -1,0 +1,10 @@
+{
+    "videoIds": ["VIDEO_ID_1", "VIDEO_ID_2"],
+    "searchTerms": ["term1", "term2"],
+    "maxLimit": 10,
+    "minLikes": 5,
+    "minReplies": 2,
+    "filteredWords": ["badword1", "badword2"],
+    "maxChars": 200,
+    "theme": "dark"
+    }
